@@ -3,6 +3,8 @@ ZjDroid
 
 Android app dynamic reverse tool based on Xposed framework.
 
+在原工具基础上做了一些改进
+
 
 一、ZjDroid工具介绍
 
